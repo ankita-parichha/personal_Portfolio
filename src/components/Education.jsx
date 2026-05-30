@@ -5,7 +5,7 @@ const educationData = [
   {
     degree: 'Master of Computer Applications (MCA)',
     duration: '2025 - 2027 (2nd Year)',
-    institution: 'Regional College of Management,bhubanaswar'
+    institution: 'Regional College of Management,bhubanaswar',
     description: 'Focusing on advanced computing disciplines, architectural configurations, database architectures, and engineering principles.',
     coursework: ['Data Structures & Algorithms', 'Database Systems (SQL)', 'Web Programming (React/Node)', 'Software Engineering', 'AI & Machine Learning Concepts']
   },

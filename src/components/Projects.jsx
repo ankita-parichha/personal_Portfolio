@@ -3,14 +3,6 @@ import { ExternalLink, Github } from 'lucide-react';
 
 const projects = [
   {
-    title: 'Personal Portfolio Website',
-    description: 'A premium, animated developer portfolio website showcasing academic work, technical skills, and projects. Featuring a custom glassmorphism design with canvas particles and typewriter text.',
-    image: '/project1.png',
-    tags: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
-    github: ' personal-portfolio-pearl-seven-21.vercel.app',
-    live: ' personal-portfolio-pearl-seven-21.vercel.app'
-  },
-  {
     title: 'Space Responsive Landing Page',
     description: 'An interactive, responsive space landing page presenting celestial bodies, exploration schedules, and rocket engineering layouts. Built with modular designs and heavy hover animations.',
     image: '/project2.png',
