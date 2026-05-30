@@ -7,8 +7,8 @@ const projects = [
     description: 'A premium, animated developer portfolio website showcasing academic work, technical skills, and projects. Featuring a custom glassmorphism design with canvas particles and typewriter text.',
     image: '/project1.png',
     tags: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion'],
-    github: 'https://github.com/ankitaparichha/portfolio',
-    live: 'https://ankitaparichha.dev'
+    github: ' personal-portfolio-pearl-seven-21.vercel.app',
+    live: ' personal-portfolio-pearl-seven-21.vercel.app'
   },
   {
     title: 'Space Responsive Landing Page',
@@ -16,7 +16,7 @@ const projects = [
     image: '/project2.png',
     tags: ['HTML5', 'CSS3', 'JavaScript', 'Aesthetics'],
     github: ' https://ankita-parichha.github.io/space-theme-landing-page/',
-    live: 'https://ankitaparichha-space.vercel.app'
+    live: ' https://ankita-parichha.github.io/space-theme-landing-page/'
   },
   {
     title: 'Cyber Cafe Management System',

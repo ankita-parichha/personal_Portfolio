@@ -4,15 +4,15 @@ import { Calendar, Award, BookOpen, GraduationCap } from 'lucide-react';
 const educationData = [
   {
     degree: 'Master of Computer Applications (MCA)',
-    duration: '2024 - 2026 (2nd Year)',
-    institution: 'Biju Patnaik University of Technology (BPUT)',
+    duration: '2025 - 2027 (2nd Year)',
+    institution: 'Regional College of Management,bhubanaswar'
     description: 'Focusing on advanced computing disciplines, architectural configurations, database architectures, and engineering principles.',
     coursework: ['Data Structures & Algorithms', 'Database Systems (SQL)', 'Web Programming (React/Node)', 'Software Engineering', 'AI & Machine Learning Concepts']
   },
   {
     degree: 'Bachelor of Science in Computer Science (B.Sc. CS)',
-    duration: '2021 - 2024',
-    institution: 'Utkal University',
+    duration: '2022- 2025',
+    institution: 'Vikram Dev Autonumous College,jeypore',
     description: 'Established fundamental understandings in mathematical systems, procedural language paradigms, and computing networks.',
     coursework: ['Object-Oriented Programming (Java/C++)', 'Operating Systems', 'Computer Networks', 'Discrete Mathematics', 'Web Tech Foundations']
   }
@@ -64,7 +64,7 @@ export default function Education() {
                   <h3 className="text-xl font-bold text-white tracking-wide">
                     {edu.degree}
                   </h3>
-                  
+
                   <div className="inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-white/5 border border-white/5 text-purple-300 text-xs font-mono shrink-0 w-fit">
                     <Calendar className="w-3.5 h-3.5" />
                     <span>{edu.duration}</span>
